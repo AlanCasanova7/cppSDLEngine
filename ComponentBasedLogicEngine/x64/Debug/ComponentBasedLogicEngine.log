@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\alan\onedrive\documents\c++_work\componentbasedlogicengine\componentbasedlogicengine\main.cpp(8): warning C4930: 'sdl_engine::Engine engine(void)': prototyped function not called (was a variable definition intended?)
+  Renderer.cpp
+  TestRenderer.cpp
+  Window.cpp
+  Generating Code...
+  ComponentBasedLogicEngine.vcxproj -> C:\Users\Alan\OneDrive\Documents\C++_Work\ComponentBasedLogicEngine\x64\Debug\ComponentBasedLogicEngine.exe
