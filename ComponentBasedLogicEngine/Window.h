@@ -9,7 +9,6 @@ namespace sdl_engine
 	public:
 		Window(const char* title, const int width, const int height);
 		~Window();
-
 		//REMOVAL OF COPY CONSTRUCTOR. NO COPIES OF THE WINDOW ALLOWED
 		Window(const Window&) = delete;
 

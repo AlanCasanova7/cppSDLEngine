@@ -5,7 +5,7 @@ namespace sdl_engine
 	class Component
 	{
 	public:
-		Component(const char* test_text);
+		Component(/*const char* test_text*/);
 		~Component();
 		virtual void BeginPlay();
 		virtual void Tick(float DeltaTime);
